@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197937052566",
+    "firebase_url": "https://geotagging-c1bbd.firebaseio.com",
+    "project_id": "geotagging-c1bbd",
+    "storage_bucket": "geotagging-c1bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197937052566:android:9e0aa5171f581e508afbb7",
+        "android_client_info": {
+          "package_name": "com.example.geotagging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197937052566-28lv1ppcn3649u132q4moh3adi0ckdue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geotagging",
+            "certificate_hash": "c665b2c33eb8a69ab0511954fd45164a7c49e2c1"
+          }
+        },
+        {
+          "client_id": "197937052566-hbf9v600dj1jglsu8ns1622su6b7ob1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQjjrE_6MEkwRqCS0MiSkO_8W4DAbEao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197937052566-hbf9v600dj1jglsu8ns1622su6b7ob1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

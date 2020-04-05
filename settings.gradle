@@ -1,0 +1,2 @@
+include ':app', ':myapplication', ':camera'
+rootProject.name='GeoTagging'
